@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-05-11T22:50:19.627Z"
+    },
+    {
+      "description": "Festa",
+      "price": 150,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2023-05-16T23:38:44.324Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "price": 10000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-05-16T23:50:31.114Z",
+      "id": 5
     }
   ]
 }
